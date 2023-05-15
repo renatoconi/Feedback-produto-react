@@ -9,4 +9,4 @@ o intuito é fixar aprendizados em react, fazendo uso de bibliotecas.
 
 
 
-[deploy](feedback-produto-react-coni.vercel.app)
+[online with versel](feedback-produto-react-coni.vercel.app)
